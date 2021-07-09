@@ -11,7 +11,5 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning about backend web development with Reskill Americans!
 
-- 💬 Ask me about adventure ideas!
-
 
 -->
